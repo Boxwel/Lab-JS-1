@@ -1,5 +1,3 @@
-const prompt = require("prompt-sync")();
-
 //! Ejercicio #1
 // Nombre
 let miNombre;
