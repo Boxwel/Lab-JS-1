@@ -16,4 +16,12 @@ if (true){
     console.log(esEstudiante);
 }
 
-//! Ejercicio #2asd
+//! Ejercicio #2
+// Variable sin valor
+let sinValor;
+// Valor nulo
+let valorNulo;
+valorNulo = null;
+// Mostrar ambas
+console.log(sinValor);
+console.log(valorNulo);
