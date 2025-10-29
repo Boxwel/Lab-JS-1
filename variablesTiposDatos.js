@@ -16,4 +16,4 @@ if (true){
     console.log(esEstudiante);
 }
 
-//! Ejercicio #2
+//! Ejercicio #2asd
