@@ -10,7 +10,7 @@ console.log(miEdad);
 // esEstudiante
 let esEstudiante;
 if (true){
-    let esEstudiante = "Si";
+    let esEstudiante = "Si"; 
     console.log(esEstudiante);
 }
 
