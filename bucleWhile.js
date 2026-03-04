@@ -9,8 +9,8 @@ while (i <= num) {
 }
 
 //! Ejercicio #2
-let pass = prompt("Escribe la contraseña: ");
+let pass = prompt("Escribe la clave: ");
 while (pass !== "1234") {
   pass = prompt("Incorrecta, intenta otra vez: ");
 }
-console.log("Contraseña correcta");
+console.log("Clave correcta");
